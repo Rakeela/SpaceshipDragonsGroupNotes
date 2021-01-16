@@ -1,0 +1,1 @@
+Camera positioned behind me (wingless) in the space station looking out a large window at the other draks, wall color is basic metallic grey and window frame is bolted into place 'cause the station is pressurized. Very faint and diagonal square lattice with 1cm^2 cells across window pane provides extra structural support if you want to add that too
