@@ -30,3 +30,5 @@ Primarily in the cyan-to-violet range but with plenty of variation and suggestio
 **Belly:** Large hatch, opening downwards, allowing access to the primary cargo bay, with large-cargo lift, another staircase for entrance, and emergency ladders. From the exterior, there are warning lights (usually off), so folks don’t get caught under it when it’s lowering.
 
 **Unnecessary glowy parts and decorations:** Like a gaming PC.
+
+Back to [[START-HERE]]
