@@ -2,6 +2,10 @@
 
 The first group picture of the spaceship dragons is currently proposed to be in orbit of Saturn, overlooking the rings.
 
+- Alternative proposal:  The group is visiting the catcher-ring described below.  They're picking up materials to deliver elsewhere in the system.
+
+In this setting, Saturn has had an artificial orbital ring installed around it inside of the planet's ring system.  This artificial ring absorbs infalling particles from Saturn's rings.  The primary output of the catcher-ring station is water, which it produces in awesome quantities, though it also produces stone and metal in 'small' quantities as the infalling ring matter includes some amount of captured meteors.  The ring is covered in habitats on its leeward side (facing the planet) and serves as the central base for resource extraction in the Saturn region.
+
 ![](astro_bk_still1.jpg)
 
 Back to [[START-HERE]]
