@@ -12,8 +12,7 @@ In this setting, Saturn has had an artificial orbital ring installed around it i
 ![](astro_bk_still1.jpg)
 
 **Orbital ring image:**
-![](
-/Users/rakeela/Documents/GitHub/SpaceshipDragonsGroupNotes/3410bd_3ef614ef1d664fd5b845afdf5f4f977c_mv2.webp
+![](3410bd_3ef614ef1d664fd5b845afdf5f4f977c_mv2.png)
 
 Back to [[START-HERE]]
 
